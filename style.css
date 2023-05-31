@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     padding-left: 200px;
 }
 .clr{
@@ -30,4 +30,23 @@
 .mycard{
     border: 0;
     box-shadow: 1px 1px 5px rgb(246, 239, 239);
+}
+.m-center{
+    text-align: center;
+}
+.bg-clr{
+    background-color: yellow;
+    height: 10px;
+    width: 120px;
+    margin: auto;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg ,rgb(185, 153, 71), rgb(189, 105, 33) );
+}
+.img-bg{
+    background-color: #FFFFFF;
+    margin: 10px;
+    padding: 30px;
+    border-radius: 20px 0px 20px 0;
+    box-shadow:1px 1px 10px #dbd7d7;
+    
 }

@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 30px;
+    padding-left: 200px;
+}
+.clr{
+    color: rgb(14, 14, 13);
+}
+.my-nav{
+    color: rgb(128, 121, 121);
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.bgh{
+    transition: all 0.5s;
+    
+}
+.bgh:hover{
+    color: rgb(43, 8, 200);   
+}
+.mylogo{
+    height: 60px;
+}
+.carousel-item{
+    
+}
+.left{
+    padding-right: 200px;
+}
+.mycard{
+    border: 0;
+    box-shadow: 1px 1px 5px rgb(246, 239, 239);
+}
